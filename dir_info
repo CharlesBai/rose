@@ -1,0 +1,15 @@
+data
+	code		
+config
+	hostinfo, usrinfo,
+libs
+	db,str,json
+feeds
+	crawler,
+	autoInv
+		fin,his-v
+	ml	
+	
+feeds.conf
+	src-git data github://
+	src-git crawler github://
