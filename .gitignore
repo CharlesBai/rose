@@ -1,4 +1,6 @@
-feeds/crawler
 *.swp
-__pycache__/
+__pycache__
+rose/platform.txt
+rose/data
+rose/feeds/crawler
 
